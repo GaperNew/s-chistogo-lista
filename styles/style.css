@@ -142,6 +142,7 @@ span {
 
 .intro__date {
   white-space: nowrap;
+  color: #ccc;
 }
 
 .intro__main-text {
